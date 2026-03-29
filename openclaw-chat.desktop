@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OpenClaw Chat
+Comment=Open OpenClaw chat and ensure gateway is running
+Exec=__OPENCLAW_LAUNCHER_PATH__
+Terminal=false
+Categories=Utility;Network;
+StartupNotify=true
